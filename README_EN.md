@@ -1,17 +1,13 @@
 # CodeBook — Code-Adjacent Notes
 
-<!--
-Replace all <OWNER>/<REPO> below with your GitHub repository, e.g. wangyexxx/codebook
--->
-
-[![CI](https://github.com/<OWNER>/<REPO>/actions/workflows/ci.yml/badge.svg)](https://github.com/<OWNER>/<REPO>/actions/workflows/ci.yml)
-[![Release](https://img.shields.io/github/v/release/<OWNER>/<REPO>?display_name=tag&sort=semver)](https://github.com/<OWNER>/<REPO>/releases)
-[![Downloads](https://img.shields.io/github/downloads/<OWNER>/<REPO>/total)](https://github.com/<OWNER>/<REPO>/releases)
+[![CI](https://github.com/nscwangyehui-code/codebook/actions/workflows/ci.yml/badge.svg)](https://github.com/nscwangyehui-code/codebook/actions/workflows/ci.yml)
+[![Release](https://img.shields.io/github/v/release/nscwangyehui-code/codebook?display_name=tag&sort=semver)](https://github.com/nscwangyehui-code/codebook/releases)
+[![Downloads](https://img.shields.io/github/downloads/nscwangyehui-code/codebook/total)](https://github.com/nscwangyehui-code/codebook/releases)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
-[![Stars](https://img.shields.io/github/stars/<OWNER>/<REPO>?style=social)](https://github.com/<OWNER>/<REPO>/stargazers)
+[![Stars](https://img.shields.io/github/stars/nscwangyehui-code/codebook?style=social)](https://github.com/nscwangyehui-code/codebook/stargazers) 
 
-A local desktop note tool designed for **reading / learning / maintaining real-world codebases**:
-project tree on the left, read-only code in the middle, and Markdown notes on the right — **one-to-one mapped to source files** (images supported).
+A local desktop "Code Companion Notes" tool for "reading code/learning code/analyzing and understanding projects": the left is the project file tree, the middle is only reading code, and the right is the Markdown notes corresponding to the source file one by one (the note area is a double-column - editing area and preview area, supporting illustrations and LaTeX formulas).
+Core goal: ** allows you to precipitate the "process of understanding code" into retrievable knowledge assets without polluting the source code or repeatedly cutting tools. **
 
 > 中文说明: [README.md](./README.md)
 
